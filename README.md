@@ -11,6 +11,8 @@ to establish my connection, and Im using the class
 [Queries](https://github.com/michael2750/Assignment-9---Database-Comparison/blob/master/DatabaseCompairson/src/main/java/Connector/Queries.java)
 as my main and this executes the Depth 1-5 assignment and measures the execution time.
 
+[SQL queries](https://github.com/michael2750/Assignment-9---Database-Comparison/blob/master/Part3.sql)
+
 Havent got to the Neo4j part! :(
 
 Execution time:
