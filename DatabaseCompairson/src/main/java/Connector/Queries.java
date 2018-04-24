@@ -85,7 +85,7 @@ public class Queries {
                 + "SELECT target_id FROM edges WHERE edge_id IN(\n"
                 + "SELECT target_id FROM edges WHERE edge_id IN(\n"
                 + "SELECT target_id FROM edges WHERE edge_id IN(\n"
-                + "SELECT node_id FROM nodes WHERE name = 'Odessa Satmary')))))";
+                + "SELECT node_id FROM nodes WHERE name = 'Odessa Satmary'))))";
         ResultSet res = state.executeQuery(query);
     }
 
