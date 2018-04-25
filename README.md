@@ -7,15 +7,16 @@ I have decided to small csv files even tho Helge said we shouldnt, since it took
 This assignment was made with MySQL WorkBench, Netbeans and Neo4j.
 I made a maven project in netbeans as seen in my repository, and Im using the class
 [DBConnector](https://github.com/michael2750/Assignment-9---Database-Comparison/blob/master/DatabaseCompairson/src/main/java/Connector/DBConnector.java)
-to establish my connection, and Im using the class
+to establish my connection to my SQL database, and Im using the class
 [Queries](https://github.com/michael2750/Assignment-9---Database-Comparison/blob/master/DatabaseCompairson/src/main/java/Connector/Queries.java)
 as my main and this executes the Depth 1-5 assignment and measures the execution time.
+The main class also establish the connection to the neo4j database this happens in the last method called `NEOendorses(String query)` on line `172`
 
 [SQL queries](https://github.com/michael2750/Assignment-9---Database-Comparison/blob/master/Part3.sql)
 
 Havent got to the Neo4j part! :(
 
-Execution time:
+### **Execution time**:
 
 **SQL**
 - Depth1: 40357346 nanoseconds
