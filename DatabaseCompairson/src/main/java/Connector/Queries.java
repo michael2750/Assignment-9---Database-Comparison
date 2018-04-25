@@ -101,11 +101,11 @@ public class Queries {
         System.out.println("Depth5: " + End5_TotalTime + " nanoseconds");
         
         System.out.println("NEO:");
-        System.out.println("Endorses 1 - " + NEO_endorses1_duration + " nanoseconds");
-        System.out.println("Endorses 2 - " + NEO_endorses2_duration + " nanoseconds");
-        System.out.println("Endorses 3 - " + NEO_endorses3_duration + " nanoseconds");
-        System.out.println("Endorses 4 - " + NEO_endorses4_duration + " nanoseconds");
-        System.out.println("Endorses 5 - " + NEO_endorses5_duration + " nanoseconds");
+        System.out.println("Depth1 " + NEO_endorses1_duration + " nanoseconds");
+        System.out.println("Depth2: " + NEO_endorses2_duration + " nanoseconds");
+        System.out.println("Depth2: " + NEO_endorses3_duration + " nanoseconds");
+        System.out.println("Depth2: " + NEO_endorses4_duration + " nanoseconds");
+        System.out.println("Depth2: " + NEO_endorses5_duration + " nanoseconds");
 
     }
 
