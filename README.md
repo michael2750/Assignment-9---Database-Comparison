@@ -25,9 +25,8 @@ Execution time:
 - Depth5: 260273440 nanoseconds
 
 **NEO**
-NEO:
-Depth1 64372520 nanoseconds
-Depth2: 33120736 nanoseconds
-Depth2: 33074180 nanoseconds
-Depth2: 40185566 nanoseconds
-Depth2: 79034815 nanoseconds
+- Depth1: 64372520 nanoseconds
+- Depth2: 33120736 nanoseconds
+- Depth2: 33074180 nanoseconds
+- Depth2: 40185566 nanoseconds
+- Depth2: 79034815 nanoseconds
