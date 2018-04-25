@@ -16,7 +16,10 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.40</version>
         </dependency> 
-
-        <!-- ...any other dependencies -->
+        <dependency>
+            <groupId>org.neo4j.driver</groupId>
+            <artifactId>neo4j-java-driver</artifactId>
+            <version>1.4.4</version>
+        </dependency>
     </dependencies>
 </project>
